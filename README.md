@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hello there 👋
 
-<!--
-**AuroreVanHoorebeke/AuroreVanHoorebeke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Aurore, I'm passionate about tech and I'm currently working on my way to become a Kick-Ass Junior Web Dev!
 
-Here are some ideas to get you started:
+#### 🔭 I’m currently working on:  
+Projects during my formation at BeCode.org. A WebDev bootcamp based in Brussels, BE.
+#### 🌱 I’m currently learning:
+Web Dev tricks, but especially Python language at the moment. I love its versatility.   
+I'm interested in so many languages, frameworks and libraries that this readme section will change quite a lot.  
+Keep an eye on it if you want to stay updated!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats & Tech
+<div style="background-color:#373F51">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=AuroreVanHoorebeke&show_icons=true&theme=calm&hide_border=true&hide=stars,issues"/></a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuroreVanHoorebeke&langs_count=6&layout=compact&theme=calm&hide_border=true"/></a>
+</div>
+
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=e95420)
+![](https://img.shields.io/badge/OS-Windows_10-informational?style=flat&logo=windows&logoColor=white&color=0078D6)
+![](https://img.shields.io/badge/Tools-PhpStorm-informational?style=flat&logo=PhpStorm&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Tools-PyCharm-informational?style=flat&logo=PyCharm&logoColor=white&color=yellow)
