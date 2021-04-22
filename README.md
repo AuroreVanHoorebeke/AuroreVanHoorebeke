@@ -21,4 +21,4 @@ Keep an eye on it if you want to stay updated!
 ![](https://img.shields.io/badge/OS-Windows_10-informational?style=flat&logo=windows&logoColor=white&color=0078D6)
 ![](https://img.shields.io/badge/Tools-PhpStorm-informational?style=flat&logo=PhpStorm&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Tools-PyCharm-informational?style=flat&logo=PyCharm&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Tools-intelliJ_IDEA-informational?style=flat&logo=intelliJ_IDEA&logoColor=white&color=black)
+![](https://img.shields.io/badge/Tools-IntelliJ_IDEA-informational?style=flat&logo=intelliJ_IDEA&logoColor=white&color=black)
