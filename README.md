@@ -4,7 +4,7 @@ My name is Aurore, I'm passionate about tech and I'm currently working on my way
 
 #### 🔭 I’m currently working on:  
 Projects during my formation at BeCode.org. A WebDev bootcamp based in Brussels, BE.  
-Currently training for my upcoming internship!
+Currently learning a lot during my internship! 🚀
 #### 🌱 I’m currently learning:
 Web Dev tricks, Python language and, at the moment, Java (first strongly-typed language, yay!)    
 I'm interested in so many languages, frameworks and libraries that this readme section will change quite a lot.  
