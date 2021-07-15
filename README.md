@@ -1,13 +1,12 @@
 ## Hello there 👋
 
-My name is Aurore, I'm passionate about tech and I'm currently working on my way to become a Kick-Ass Junior Web Dev!
+My name is Aurore, I'm passionate about tech and learning new things!
 
 #### 🔭 I’m currently working on:  
-Projects during my formation at BeCode.org. A WebDev bootcamp based in Brussels, BE.  
-Currently learning a lot during my internship! 🚀
+Theory and different side projects to keep learning even more! 🚀
 #### 🌱 I’m currently learning:
-Web Dev tricks, Python language and, at the moment, Java (first strongly-typed language, yay!)    
-I'm interested in so many languages, frameworks and libraries that this readme section will change quite a lot.  
+General concepts of computer science. Tinkering on Linux as well! 🛠️
+I'm interested in so many concepts, languages, frameworks and libraries that this readme section will change quite a lot.  
 Keep an eye on it if you want to stay updated!  
 
 ### Stats & Tech
