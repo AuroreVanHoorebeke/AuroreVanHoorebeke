@@ -5,7 +5,7 @@ My name is Aurore, I'm passionate about tech and learning new things!
 #### 🔭 I’m currently working on:  
 Theory and different side projects to keep learning even more! 🚀
 #### 🌱 I’m currently learning:
-General concepts of computer science. Tinkering on Linux as well! 🛠️
+General concepts of computer science. Tinkering on Linux as well! 🛠️  
 I'm interested in so many concepts, languages, frameworks and libraries that this readme section will change quite a lot.  
 Keep an eye on it if you want to stay updated!  
 
